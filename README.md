@@ -9,6 +9,7 @@ geolocalización. Además, debe contar con una splash screen.
 Autores:
 
 Ñaupari Mayra
+
 Torres Jhon
 
 ## Login de la app

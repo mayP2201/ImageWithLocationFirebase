@@ -13,5 +13,22 @@ Torres Jhon
 
 ## Login de la app
 
-![App Screenshot](movil/Imagen1.png)
+![Login](movil/Imagen1.png)
+
+## Splash Screen
+
+![Splash Screen](movil/Imagen8.jpeg)
+
+## Cuenta de usuario registrado dentro de Firebase, apartado de autentificación 
+
+![Splash Screen](movil/Imagen2.png)
+
+## Pantalla para desplegar la cámara dentro de la aplicación
+
+![Splash Screen](movil/Imagen3.png)
+
+## Presentación de la cámara para proceder a tomar una foto
+
+
+
 

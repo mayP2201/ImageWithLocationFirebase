@@ -21,14 +21,26 @@ Torres Jhon
 
 ## Cuenta de usuario registrado dentro de Firebase, apartado de autentificación 
 
-![Splash Screen](movil/Imagen2.png)
+![User](movil/Imagen2.png)
 
 ## Pantalla para desplegar la cámara dentro de la aplicación
 
-![Splash Screen](movil/Imagen3.png)
+![despliegue de camara](movil/Imagen3.png)
 
 ## Presentación de la cámara para proceder a tomar una foto
 
+![toma de foto](movil/Imagen4.png)
 
+## Foto a guardar
+
+![toma de foto](movil/Imagen5.png)
+
+## Localización dentro de Firebase
+
+![toma de foto](movil/Imagen6.png)
+
+## Imagen dentro de Storage de Firebase
+
+![toma de foto](movil/Imagen7.png)
 
 
